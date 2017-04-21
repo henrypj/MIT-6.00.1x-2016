@@ -1,2 +1,2 @@
 # MIT-6.00.1x-2016
-My implementations of problems sets for 2016 MIT-6.00.1x Intro to CS and Programming in Python
+My implementations of problems sets for MIT's MIT-6.00.1x Introductin to Computer Science and Programming in Python from 2016.
